@@ -1,3 +1,3 @@
-# trevis-test
-Test trevis deployment
+# travis-test
+Test travis deployment
 
