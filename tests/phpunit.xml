@@ -1,0 +1,13 @@
+<phpunit
+        bootstrap="./bootstrap.php"
+        colors="true"
+        convertErrorsToExceptions="true"
+        convertNoticesToExceptions="true"
+        convertWarningsToExceptions="true"
+        topOnFailure="false">
+    <testsuites>
+        <testsuite name="trevis-test">
+            <directory suffix="Test.php">./TrevisTest</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
